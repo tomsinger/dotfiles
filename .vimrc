@@ -1,3 +1,3 @@
 set nocompatible
 
-:inoremap ii <Esc>
+:inoremap § <Esc>
